@@ -1,0 +1,60 @@
+@font-face {
+    font-family: kesarFont;
+    src: url(gorliaz.ttf);
+}
+   
+h1{
+  font-family: kesarFont;
+  font-size: 50px;
+  text-align: center;
+}
+
+}
+.swal-modal {
+  background-color: #ffffff;
+}
+.swal-title {
+  margin: 0px;
+  font-size: 30px;
+ } 
+ion-icon{
+  color: white;
+  font-size: 38px;
+  display: block;
+  margin: auto;
+  padding-top: 100px;
+
+
+}
+ion-icon:hover{
+  color: grey;
+}
+
+
+
+#userinput{
+
+    margin: auto;
+    display: block;
+    margin-top: 100px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 12px;
+    border: 2px sloid black;
+}
+::placeholder {
+  color: grey;
+  text-align: center;
+  font-size: 17px;
+}
+p{
+  color: white;
+  font-family: kesarFont;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 80px;
+}
+
+
+
